@@ -9,10 +9,10 @@ The app recognises slide gestures, and you can slide upward or downward to chang
 ## ScreenShots
 
 <p align="center">
-    <img src="img/slide1.png" width="180">
-    <img src="img/slide2.png" width="180">
-    <img src="img/slide3.png" width="180">
-    <img src="img/slide4.png" width="180">
+    <img src="img/slide1.PNG" width="180">
+    <img src="img/slide2.PNG" width="180">
+    <img src="img/slide3.PNG" width="180">
+    <img src="img/slide4.PNG" width="180">
 </p>
 
 ## More About App
