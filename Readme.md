@@ -1,15 +1,19 @@
 # M4 Academy App
 
-<!-- <p align="center">
-    <img src="img/App1.jpeg" width="180">
-</p>
-<p align="center">
-    <img src="img/App2.jpeg" width="180">
-</p> -->
-
-TeslaApp is an iOS/Android app that was t built using reactnative.
+TeslaApp is an iOS/Android app that was built using reactnative.
 
 This is clone of Tesla Web App
+The pictures below shows you the end product of the app, starting from the first slide to the last
+The app recognises slide gestures, and you can slide upward or downward to change the pictures shown
+
+## ScreenShots
+
+<p align="center">
+    <img src="img/slide1.png" width="180">
+    <img src="img/slide2.png" width="180">
+    <img src="img/slide3.png" width="180">
+    <img src="img/slide4.png" width="180">
+</p>
 
 ## More About App
 
